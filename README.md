@@ -10,9 +10,9 @@ Este es un proyecto de una aplicación del clima que utiliza la API de OpenWeath
 
 ## 🛠️ Tecnologías Utilizadas
 
-- 🎨 HTML / CSS Estructura de la aplicación y estilización de la interfaz de usuario.
-- JavaScript (ES6): Lógica de la aplicación y consumo de la API.
-- API de OpenWeatherMap: Obtención de datos meteorológicos.
+- 🎨 **HTML / CSS** → Estructura de la aplicación y estilización de la interfaz de usuario.
+- **JavaScript (ES6)** → Lógica de la aplicación y consumo de la API.
+- **API de OpenWeatherMap** → Obtención de datos meteorológicos.
 
 ## 📂 Estructura del Proyecto
 
