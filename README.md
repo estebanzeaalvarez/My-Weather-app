@@ -47,3 +47,6 @@ Puedes obtener una clave API gratuita en OpenWeatherMap.
 Si deseas contribuir o tienes alguna sugerencia, puedes contactarme en:  
 ✉️ **[Discord](https://discord.com/users/estebanzea777)**  
 👨‍💻 **[Mi perfil de GitHub](https://github.com/estebanzeaalvarez)**  
+
+---
+¡Si te gustó este proyecto, dale una ⭐ y contribuye con mejoras! 😃
