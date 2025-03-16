@@ -1,4 +1,4 @@
-﻿# My-Weather-app
+﻿# 🌤️ My Weather app
 
 Este es un proyecto de una aplicación del clima que utiliza la API de OpenWeatherMap para obtener y mostrar información meteorológica en tiempo real. espero te guste!
 
